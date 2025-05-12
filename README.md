@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 ### 🚀 My Projects
 * [**DevComma Tools**](https://tools.devcomma.com/) - Online tools and calculators.
+* [**Enchatter**](https://enchatter.com/) - Build your enchanted chatbot for business. Enchatter is an all-in-one platform that lets you create, customize, and deploy AI-powered chatbots tailored to your brand — no coding required.
 * [**HitCounter**](https://hits.devcomma.com/) - Track your website visits in real-time with a stylish, customizable hit counter badge. No signup required, easy to integrate, and privacy-friendly.
 * [**WebP Converter**](https://www.npmjs.com/package/@jkhanseong/webp-converter) - This tool converts JPEG, PNG, and GIF images to WebP format, providing details on the compression achieved for each file.
 
